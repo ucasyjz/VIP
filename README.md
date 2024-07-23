@@ -3,7 +3,7 @@ This repository is the official implementation of VIP: Versatile Image Outpainti
 ## 📜 News
 🚀 [2024/7/22] The training and inference code are released!
 
-🚀 [2024/6/3] The [paper]((https://arxiv.org/abs/2406.01059)) is released!
+🚀 [2024/6/3] The [paper](https://arxiv.org/abs/2406.01059) is released!
 
 ## 🛠️ Usage
 ### For training
