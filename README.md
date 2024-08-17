@@ -12,6 +12,8 @@ This repository is the official implementation of VIP: Versatile Image Outpainti
 - torchvision==0.14.1
 - transformers==4.39.3
 ```
+Note that in out method, there are some changes of **UNet2DConditionModel** in diffusers, please don't download the official **diffusers** dependency package.
+
 ### For training
 ```shell
 cd examples/VIP_ours/
