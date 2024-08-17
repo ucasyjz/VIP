@@ -6,6 +6,12 @@ This repository is the official implementation of VIP: Versatile Image Outpainti
 🚀 [2024/6/3] The [paper](https://arxiv.org/abs/2406.01059) is released!
 
 ## 🛠️ Usage
+### Requirements
+```shell
+- torch==1.13.1
+- torchvision==0.14.1
+- transformers==4.39.3
+```
 ### For training
 ```shell
 cd examples/VIP_ours/
